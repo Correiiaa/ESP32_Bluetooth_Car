@@ -8,7 +8,7 @@ Para facilitar a leitura, escolha o seu idioma / Select your language:
 <a name="english"></a>
 ## 🇺🇸 English
 
-[cite_start]This project was developed at the **University of Aveiro**  for the Microcontrollers course. It consists of a mobile robot controlled via Bluetooth that implements safety logic to prevent frontal collisions.
+This project was developed at the **University of Aveiro**  for the Microcontrollers course. It consists of a mobile robot controlled via Bluetooth that implements safety logic to prevent frontal collisions.
 
 ### 🚀 Features
 - **Remote Control:** Manual operation through the Dabble app (Gamepad module).
@@ -16,7 +16,7 @@ Para facilitar a leitura, escolha o seu idioma / Select your language:
 - **PWM Motor Control:** Implementation of PWM signals (via ESP32 LEDC) for precise motor speed management.
 
 ### 🛠️ Tech Stack & Hardware
-- [cite_start]**Language:** C++ (Arduino Framework) [cite: 16]
+- **Language:** C++ (Arduino Framework) [cite: 16]
 - **Microcontroller:** ESP32
 - **Communication:** Bluetooth (BLE) via Dabble library
 - **Sensors:** HC-SR04 Ultrasonic Sensor
@@ -37,7 +37,7 @@ The code follows a logic loop:
 <a name="português"></a>
 ## 🇵🇹 Português
 
-[cite_start]Este projeto foi desenvolvido na **Universidade de Aveiro**  no âmbito da unidade curricular de Microcontroladores. Trata-se de um robô móvel controlado via Bluetooth que utiliza lógica de segurança para evitar colisões frontais.
+Este projeto foi desenvolvido na **Universidade de Aveiro**  no âmbito da unidade curricular de Microcontroladores. Trata-se de um robô móvel controlado via Bluetooth que utiliza lógica de segurança para evitar colisões frontais.
 
 ### 🚀 Funcionalidades
 - **Controlo Remoto:** Operação manual através da aplicação Dabble (módulo Gamepad).
@@ -45,7 +45,7 @@ The code follows a logic loop:
 - **Controlo de Velocidade PWM:** Implementação de sinais PWM (via LEDC no ESP32) para controlo preciso da velocidade dos motores.
 
 ### 🛠️ Tecnologias e Hardware
-- [cite_start]**Linguagem:** C++ (Arduino Framework) [cite: 16]
+- **Linguagem:** C++ (Arduino Framework) [cite: 16]
 - **Microcontrolador:** ESP32
 - **Comunicação:** Bluetooth (BLE) via biblioteca Dabble
 - **Sensores:** Sensor Ultrassónico HC-SR04
